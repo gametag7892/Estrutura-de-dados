@@ -38,5 +38,5 @@ func ClassificarNota(nota int)(string){
 func main(){
 	fmt.Println(ParOuImpar(11))
 	fmt.Println(SomaAte(4))
-	fmt.Println(ClassificarNota(4))
+	fmt.Println(ClassificarNota(2))
 }
