@@ -4,6 +4,8 @@ import (
 	"fmt"
 )
 
+// EXERCICIO 5
+
 func Matriz() { 
 	var alunos[3][3] string;
 
