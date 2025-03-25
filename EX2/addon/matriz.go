@@ -18,7 +18,7 @@ func Matriz() {
 		fmt.Scanln(&alunos[i][2])
 	} 
 
-	fmt.Printf("Dados dos Alunos:\n")
+	fmt.Printf("\nDados dos Alunos:\n")
 	fmt.Printf("--------------------")
 	fmt.Print("\nIndice	RA	Nome\n")
 
