@@ -63,6 +63,6 @@ func main(){
 	First() 		//Exercicio 1 e 2
 	Second() 		//Exercicio 3
 	Third()			//Exercicio 4
-	addon.Matriz()	//Exercicio 5
-	addon.Produtos()
+	addon.Matriz()		//Exercicio 5
+	addon.Produtos()	//Exercicio 6
 }
