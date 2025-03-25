@@ -2,6 +2,8 @@ package addon
 
 import "fmt"
 
+// EXERCICIO 6
+
 type Produto struct {
 	Nome       string
 	Preco      float64
